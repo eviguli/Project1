@@ -6,3 +6,4 @@ ENTRYPOINT apachectl -D FOREGROUND
 test
 demo
 again
+demo
