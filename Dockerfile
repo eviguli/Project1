@@ -5,3 +5,4 @@ COPY . /var/www/html/
 ENTRYPOINT apachectl -D FOREGROUND
 test
 demo
+again
